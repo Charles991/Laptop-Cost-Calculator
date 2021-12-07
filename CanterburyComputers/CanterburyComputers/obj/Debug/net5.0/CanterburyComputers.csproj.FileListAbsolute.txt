@@ -1,0 +1,16 @@
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\CanterburyComputers.exe
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\CanterburyComputers.deps.json
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\CanterburyComputers.runtimeconfig.json
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\CanterburyComputers.runtimeconfig.dev.json
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\CanterburyComputers.dll
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\ref\CanterburyComputers.dll
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\bin\Debug\net5.0\CanterburyComputers.pdb
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.AssemblyInfo.cs
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.dll
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\ref\CanterburyComputers.dll
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.pdb
+C:\Users\Charles\Documents\Visual Studio 2022\CanterburyComputers\CanterburyComputers\obj\Debug\net5.0\CanterburyComputers.genruntimeconfig.cache

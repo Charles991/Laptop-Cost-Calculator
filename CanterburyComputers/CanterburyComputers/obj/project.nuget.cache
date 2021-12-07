@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "raAz1EEOI20nouHPH28fDheXobfUYGO3p1dGdzM0A98wBTcSVsgdV680h/+im13OrudQUZCa3jEYAR6ich6u8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charles\\Documents\\Visual Studio 2022\\CanterburyComputers\\CanterburyComputers\\CanterburyComputers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

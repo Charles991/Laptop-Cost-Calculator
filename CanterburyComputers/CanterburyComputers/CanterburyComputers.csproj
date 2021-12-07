@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Charles\Documents\University\Year 1\Introduction to C sharp\C sharp in visual studio\CanterburyComputers.cs" Link="CanterburyComputers.cs" />
+  </ItemGroup>
+
+</Project>
